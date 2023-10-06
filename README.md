@@ -27,6 +27,8 @@ I'm a DevOps Engineer working for [Tesco Bank](https://www.tescobank.com/), head
 [![Podman](https://img.shields.io/badge/Podman-BA0C2F?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](https://www.redhat.com/)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-ww/microsoft-365)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
 
 <h2>🏆 Github Stats</h2>
