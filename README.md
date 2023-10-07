@@ -37,10 +37,8 @@ I'm a DevOps Engineer working for [Tesco Bank](https://www.tescobank.com/), head
 [![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-
-
-
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Sonatype Nexus](https://img.shields.io/badge/Sonatype%20Nexus-0E8A16?style=for-the-badge&logo=sonatype&logoColor=white)](https://www.sonatype.com/nexus-repository-oss)
 
 <h2>🏆 Github Stats</h2>
 
