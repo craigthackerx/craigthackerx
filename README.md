@@ -29,6 +29,10 @@ I'm a DevOps Engineer working for [Tesco Bank](https://www.tescobank.com/), head
 [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](https://www.redhat.com/)
 [![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-ww/microsoft-365)
 [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+[![Packer](https://img.shields.io/badge/Packer-1B58B8?style=for-the-badge&logo=packer&logoColor=white)](https://www.packer.io/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
+[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-7B65C7?style=for-the-badge&logo=vault&logoColor=white)](https://www.vaultproject.io/)
+
 
 
 <h2>🏆 Github Stats</h2>
