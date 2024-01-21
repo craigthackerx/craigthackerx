@@ -6,6 +6,7 @@ I'm a DevOps Engineer working for [Tesco Bank](https://www.tescobank.com/), head
 - Proud alumni of [New College Lanarkshire](https://www.nclanarkshire.ac.uk/) and [University of the West of Scotland](https://uws.ac.uk) 🎓
 - I'm an expert in Azure, infrastructure as code (terraform/opentofu preferred 😉), and DevOps Engineering as a whole.  Also keen to stay up to date with latest security practices 🔐  
 - 📩 Feel free to reach me at craig@craigthacker.dev
+- I heavily contibute to both [Libre DevOps](https://github.com/libre-devops) and [CyberScot](https://github.com/cyber-scot) in my spare time.  Please follow them and myself 🙏
 
 <h2>🛠 My Toolkit</h2>
 
