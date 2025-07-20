@@ -1,7 +1,7 @@
 <h2> Hello, I'm <a href="https://www.linkedin.com/in/craig-thacker/" target="_blank">Craig Thacker</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 
 
-I'm a DevOps Engineer working for [First Central Group](https://www.firstcentralgroup.com/), working in the Azure Data Platform there as a Cloud Data Platform Engineer.
+I'm a DevOps Engineer, pivoting into MLOps and currently working for [1st Central Insurance](https://www.1stcentralinsurance.com/), working in the Data Science Platform there as a Senior MLOps Engineer.
 
 - Proud alumni of [New College Lanarkshire](https://www.nclanarkshire.ac.uk/) and [University of the West of Scotland](https://uws.ac.uk) 🎓
 - I'm an expert in Azure, infrastructure as code (terraform/opentofu preferred 😉), and DevOps Engineering as a whole.  Also keen to stay up to date with latest security practices 🔐  
